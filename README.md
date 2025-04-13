@@ -130,4 +130,3 @@ while run:
                 monsters.add(monster)
 
         time.delay(50)
-Писал сам, честно
